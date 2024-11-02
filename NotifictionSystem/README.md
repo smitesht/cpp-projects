@@ -17,6 +17,9 @@ This project uses modern C++ to create a monitoring system that not only detects
 ## 🔧 Future Enhancements: 
 With real notifications and possibly logging, this setup could handle more complex, mission-critical monitoring requirements.
 
+## UML Diagram
+![image](https://github.com/user-attachments/assets/247bfd87-4f08-43f8-b29d-fdfd00724cfa)
+
 ## Code
 
 ### Notification 
